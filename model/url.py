@@ -1,0 +1,1 @@
+auth_page = "http://test.def.k8s.dev.bi.zone/app/#/login"
